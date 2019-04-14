@@ -46,3 +46,4 @@ ggplot(temp_yr,
   labs(title="Warm Stripes",
        caption="Global Surface Temperature Analysis")+
   theme_strip
+
